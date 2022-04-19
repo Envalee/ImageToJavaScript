@@ -2,7 +2,7 @@
 Will convert images in a folder to a single javascript output file, which includes the base64 strings per file. That can be used to change the "img" > "src" attribute, to use that base64 string instead of a direct file. Maybe good for standalone HTML files.
 
 # Usage
-Just copy the ImageToBase64.ps1 file to your images folder and run it at this location from the cmd or per click. It will generate a JavaScript file, which can be included ( or copy&paste ) to you HTML files.
+Just copy the ImageToBase64.ps1 file to your images folder and run it at this location from the cmd or per click. It will generate a JavaScript file, which can be included ( or copy&paste ) to your HTML files.
 
 # Example of HTML usage
 Run the script and copy the output to you HTML part like this.
